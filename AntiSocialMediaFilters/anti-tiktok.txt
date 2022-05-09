@@ -1,0 +1,11 @@
+! Filter List To block TikTok and TikTok linked domain's. 
+! Quick Fact: If you Use This Filter List You Cannot Access TikTok. Try It Your Self.
+! Title: ApexVerge Anti-TikTok
+! Author: Mandip Lal Joshi
+!=====================================================================================
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||ttlivecdn.com^
+||isnssdk.com^
+||tiktokcdn-us.com^
