@@ -1,0 +1,10 @@
+! Title: ApexVerge Ad Filters
+! Expires: 1 days
+! Homepage: https://github.com/MandipJoshi/ApexVergeFilters
+! Author: Mandip Lal Joshi
+!============================================================⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+!Presearch
+presearch.org#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
+presearch.org##div[class*="default"][data-notify-position="top-right"]
+engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
+presearch.org##div[x-data*="keywordAdFirst"]
