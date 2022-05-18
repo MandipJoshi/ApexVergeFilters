@@ -11,3 +11,6 @@ presearch.org##div[x-data*="keywordAdFirst"]
 
 !Bizshala.com
 ||www.bizshala.com/public/images/advertisement/
+
+!Onlinekhabar
+onlinekhabar.com##div.ok-adv-place
