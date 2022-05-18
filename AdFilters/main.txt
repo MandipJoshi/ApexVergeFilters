@@ -8,3 +8,6 @@ presearch.org#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[
 presearch.org##div[class*="default"][data-notify-position="top-right"]
 engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
 presearch.org##div[x-data*="keywordAdFirst"]
+
+!Bizshala.com
+||www.bizshala.com/public/images/advertisement/
