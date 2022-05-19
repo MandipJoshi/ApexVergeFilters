@@ -4,7 +4,7 @@
 ! Author: Mandip Lal Joshi
 !============================================================⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-!presearch.com
+!presearch.org
 presearch.org#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
 presearch.org##div[class*="default"][data-notify-position="top-right"]
 engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
