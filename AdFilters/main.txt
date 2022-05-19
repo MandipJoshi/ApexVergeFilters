@@ -3,14 +3,18 @@
 ! Homepage: https://github.com/MandipJoshi/ApexVergeFilters
 ! Author: Mandip Lal Joshi
 !============================================================⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-!Presearch
+
+!presearch.com
 presearch.org#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
 presearch.org##div[class*="default"][data-notify-position="top-right"]
 engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
 presearch.org##div[x-data*="keywordAdFirst"]
 
-!Bizshala.com
+!bizshala.com
 ||www.bizshala.com/public/images/advertisement/
 
-!Onlinekhabar
+!onlinekhabar.com
 onlinekhabar.com##div.ok-adv-place
+
+!setopati.com
+||img.setopaty.com/uploads/bigyaapan/
