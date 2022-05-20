@@ -11,6 +11,7 @@ engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
 presearch.org##div[x-data*="keywordAdFirst"]
 
 !bizshala.com
+bizshala.com##.pro_major_bigyapan
 ||www.bizshala.com/public/images/advertisement/
 
 !onlinekhabar.com
