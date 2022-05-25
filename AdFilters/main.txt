@@ -4,11 +4,14 @@
 ! Author: Mandip Lal Joshi
 !============================================================⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-!presearch.org
+!presearch.org, presearch.com
 presearch.org#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
 presearch.org##div[class*="default"][data-notify-position="top-right"]
-engine.presearch.org#$?#template[x-if="state.ads"] { remove: true; }
+presearch.org#$?#template[x-if="state.ads"] { remove: true; }
 presearch.org##div[x-data*="keywordAdFirst"]
+presearch.com#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
+presearch.com#$?#template[x-if="state.ads"] { remove: true; }
+presearch.com##div[x-data*="keywordAdFirst"]
 
 !bizshala.com
 bizshala.com##.pro_major_bigyapan
