@@ -22,3 +22,8 @@ onlinekhabar.com##div.ok-adv-place
 
 !setopati.com
 ||img.setopaty.com/uploads/bigyaapan/
+setopati.com##.full-bigyaapan
+setopati.com##.main-bigyaapan
+setopati.com##.mobile-bigyaapan-only
+setopati.com##.desktop-bigyaapan-only
+setopati.com##.bigyaapan-item
