@@ -27,3 +27,6 @@ setopati.com##.main-bigyaapan
 setopati.com##.mobile-bigyaapan-only
 setopati.com##.desktop-bigyaapan-only
 setopati.com##.bigyaapan-item
+
+!ekantipur.com
+ekantipur.com##.box-sponsored
