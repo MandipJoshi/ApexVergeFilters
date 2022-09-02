@@ -12,6 +12,7 @@ presearch.org##div[x-data*="keywordAdFirst"]
 presearch.com#?#div[x-data="searchResults()"] div[x-data]:has(> div > div > div[class] > span:contains(Ad))
 presearch.com#$?#template[x-if="state.ads"] { remove: true; }
 presearch.com##div[x-data*="keywordAdFirst"]
+presearch.com#$?#template[x-for="ad in state.ads"] { remove: true; }
 
 !bizshala.com
 bizshala.com##.pro_major_bigyapan
