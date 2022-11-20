@@ -31,3 +31,4 @@ setopati.com##.bigyaapan-item
 
 !ekantipur.com
 ekantipur.com##.box-sponsored
+||election.ekantipur.com/sponsored/
