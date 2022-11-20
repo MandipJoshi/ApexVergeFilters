@@ -20,6 +20,7 @@ bizshala.com##.pro_major_bigyapan
 
 !onlinekhabar.com
 onlinekhabar.com##div.ok-adv-place
+||election.onlinekhabar.com/wp-content/uploads/*.gif
 
 !setopati.com
 ||img.setopaty.com/uploads/bigyaapan/
